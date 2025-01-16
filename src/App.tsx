@@ -9,7 +9,7 @@ import Contact from "./components/Contact";
 
 function App() {
   return (
-    <main className="overflow-x-hidden relative w-screen min-h-screen bg-zinc-600">
+    <main className="overflow-x-hidden relative w-screen min-h-screen bg-zinc-100">
       <Navbar />
       <Hero />
       <About />
